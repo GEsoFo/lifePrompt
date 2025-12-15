@@ -1,4 +1,3 @@
-```markdown
 # LifeKline.cn 优化工具：跳过排队，直接生成命理报告
 
 这个项目提供一个手动方法，帮助你在 https://www.lifekline.cn/ 网站上快速生成完整命理报告，彻底解决排队等待、生成失败、卡顿等问题。
@@ -60,4 +59,3 @@ const fakeReportJson = {
 也欢迎 Fork 后分享你的优质 Prompt，一起把报告质量拉满～
 
 有问题可以直接在 Issues 里提问，我看到会回复。
-```
